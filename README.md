@@ -59,7 +59,7 @@ Built with pure **HTML5**, **CSS3**, and **vanilla JavaScript**, this project de
 ![Homepage](screenshots/herosection.png)
 
 ### Product Collection Grid
-![Product Collection](screenshots/products detail.png)
+![Product Collection](screenshots/product%20detail.png)
 
 ### Quick View Product Modal
 ![Product Modal](screenshots/products.png)
